@@ -1,3 +1,6 @@
+//Jay Prajapati, jprajapati2@toromail.csudh.edu
+//Assignment 4 Java I/O
+
 import java.io.*;
 import java.util.NoSuchElementException;
 import java.util.regex.Pattern;
