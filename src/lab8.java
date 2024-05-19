@@ -128,7 +128,7 @@ class Book {
     }
 }
 
-public class Main {
+public class lab8 {
     public static void main(String[] args) {
         Address libraryAddress = new Address("New York City", "NY");
         Library library = new Library("Public Library", libraryAddress);
